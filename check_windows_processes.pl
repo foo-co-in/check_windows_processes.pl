@@ -35,7 +35,7 @@ Usage: $program_name -H <hostname|ip address> -C <SNMP community> -P <process1,p
   -h    Display this help and exit
 
 EOF
-        print "$program_name $program_version is provided without any guarantee under the same license as Perl itself" unless @_;
+	print "$program_name $program_version is released under the same license as Perl itself" unless @_;
         exit $retval->{UNKNOWN};
 }
 

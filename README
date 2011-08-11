@@ -1,3 +1,6 @@
 A Nagios plugin to monitor multiple processes on a Windows host
 
 This plugin is also capable of generating PNP graphs
+
+Installation instructions and example usage is at
+http://www.foo.co.in/2011/08/checkwindowsprocessespl-nagios-plugin.html
